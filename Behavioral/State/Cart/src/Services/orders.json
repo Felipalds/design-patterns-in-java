@@ -1,0 +1,12 @@
+[
+  {
+    "productList": [
+      {
+        "name": "Product 1",
+        "price": 13.99,
+        "discountedPrice": 12.99
+      }
+    ],
+    "clientName": "Luiz"
+  }
+]
